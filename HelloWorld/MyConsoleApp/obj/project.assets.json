@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wjord\\School Projects\\cse325\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
       "projectName": "MyConsoleApp",
-      "projectPath": "C:\\Users\\wjord\\School Projects\\cse325\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
+      "projectPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
       "packagesPath": "C:\\Users\\wjord\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wjord\\School Projects\\cse325\\HelloWorld\\MyConsoleApp\\obj\\",
+      "outputPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wjord\\AppData\\Roaming\\NuGet\\NuGet.Config"

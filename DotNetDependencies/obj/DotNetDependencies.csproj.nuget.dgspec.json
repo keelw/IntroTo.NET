@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\DotNetDependencies\\DotNetDependencies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\DotNetDependencies\\DotNetDependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
-        "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\DotNetDependencies\\DotNetDependencies.csproj",
+        "projectName": "DotNetDependencies",
+        "projectPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\DotNetDependencies\\DotNetDependencies.csproj",
         "packagesPath": "C:\\Users\\wjord\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\obj\\",
+        "outputPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\DotNetDependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wjord\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Humanizer": {
+              "target": "Package",
+              "version": "[2.14.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

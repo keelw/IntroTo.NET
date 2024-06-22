@@ -1,0 +1,15 @@
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.exe
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.deps.json
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.runtimeconfig.json
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.dll
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\bin\Release\net8.0\DotNetDebugging.pdb
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.AssemblyInfoInputs.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.AssemblyInfo.cs
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.sourcelink.json
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.dll
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\refint\DotNetDebugging.dll
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.pdb
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\DotNetDebugging.genruntimeconfig.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\DotNetDebugging\obj\Release\net8.0\ref\DotNetDebugging.dll

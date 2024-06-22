@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {}
+    "c:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {
+    "c:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectUniqueName": "c:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
         "projectName": "MyConsoleApp",
-        "projectPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
+        "projectPath": "c:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\MyConsoleApp.csproj",
         "packagesPath": "C:\\Users\\wjord\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\obj\\",
+        "outputPath": "c:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\HelloWorld\\MyConsoleApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\wjord\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,6 @@
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.AssemblyInfoInputs.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.AssemblyInfo.cs
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.csproj.CoreCompileInputs.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\wjord\School Projects\cse325\IntroTo.NET\Component Tutorial\MyBlazorApp\obj\Debug\net8.0\MyBlazorApp.sourcelink.json

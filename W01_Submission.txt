@@ -24,3 +24,30 @@ Transfer-Encoding: chunked
     "isGlutenFree": false
   }
 ]
+
+
+Part 2: 
+
+void GenerateSalesSummaryReport(IEnumerable<string> salesFiles, double totalSales, string reportFilePath)
+{
+    var stringBuilder = new StringBuilder();
+
+    stringBuilder.AppendLine("Sales Summary");
+    stringBuilder.AppendLine("----------------------------");
+    stringBuilder.AppendLine($" Total Sales: {totalSales.ToString("C")}");
+    stringBuilder.AppendLine();
+    stringBuilder.AppendLine(" Details:");
+
+    // Loop over each file path in salesFiles to get totals
+    foreach (var file in salesFiles)
+    {
+        string salesJson = File.ReadAllText(file);
+        SalesData? data = JsonConvert.DeserializeObject<SalesData?>(salesJson);
+        double fileTotal = data?.Total ?? 0;
+        string fileName = Path.GetFileName(file);
+
+        stringBuilder.AppendLine($"  {fileName}: {fileTotal.ToString("C")}");
+    }
+
+    File.WriteAllText(reportFilePath, stringBuilder.ToString());
+}

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\Component Tutorial\\FirstClassLibrary\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\My.FirstClassLibrary.bundle.scp.css",
+      "PackagePath": "staticwebassets\\My.FirstClassLibrary.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\Component Tutorial\\FirstClassLibrary\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\wjord\\School Projects\\cse325\\IntroTo.NET\\Component Tutorial\\FirstClassLibrary\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.My.FirstClassLibrary.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.My.FirstClassLibrary.props",
+      "PackagePath": "build\\My.FirstClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.My.FirstClassLibrary.props",
+      "PackagePath": "buildMultiTargeting\\My.FirstClassLibrary.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.My.FirstClassLibrary.props",
+      "PackagePath": "buildTransitive\\My.FirstClassLibrary.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
